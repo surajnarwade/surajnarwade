@@ -12,10 +12,15 @@ Websites:
 * https://surajnarwade.com
 * https://theplatformengineering.com
 
-Slides/Sessions:
+
+Talks/Slides/Sessions:
 
 * https://slides.suraj.pro
 
+📫 How to reach me: ...
+
+* Twitter: https://twitter.com/red_suraj
+* Linkedin: https://www.linkedin.com/in/surajnarwade/
 
 Resume:
 
