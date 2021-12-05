@@ -20,7 +20,7 @@ Talks/Slides/Sessions:
 
 📫 How to reach me: ...
 
-* Twitter: https://twitter.com/red_suraj
+* Twitter: https://twitter.com/surajincloud
 * Linkedin: https://www.linkedin.com/in/surajnarwade/
 
 Resume:
