@@ -20,6 +20,8 @@ Talks/Slides/Sessions:
 
 📫 How to reach me: ...
 
+<a href="https://twitter.com/surajincloud?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @surajincloud</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * Twitter: https://twitter.com/surajincloud
 * Linkedin: https://www.linkedin.com/in/surajnarwade/
 
