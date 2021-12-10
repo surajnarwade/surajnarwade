@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![twitter-follower](https://img.shields.io/twitter/follow/surajincloud?style=social)
+
+
+
 I am Suraj Narwade. I work as a Platform Engineer for RVU. 
 <!--
 **surajnarwade/surajnarwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
