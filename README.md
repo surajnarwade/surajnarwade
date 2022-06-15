@@ -1,48 +1,36 @@
-### Hi there 👋
+## Hi there 👋
 
-![twitter-follower](https://img.shields.io/twitter/follow/surajincloud?style=social)
-
-
-
-I am Suraj Narwade. I work as a Platform Engineer for RVU. 
-<!--
-**surajnarwade/surajnarwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-Websites:
-
-* https://suraj.pro
-* https://surajnarwade.com
-* https://theplatformengineering.com
+I am Suraj Narwade. I work as a Senior Platform Engineer for [RVU](https://www.rvu.co.uk/). As a part of Platform Engineering, I work around Cloud-Native technologies like Kubernetes, Golang, Docker, Prometheus, AWS, EKS, etc
 
 
-Talks/Slides/Sessions:
+I am a Open-Source & Cloud-native enthusiast who contributes to Open Source in every possible way. I am CNCF Ambassador. Before moving to London, He was an active member of the local container-centric meetups in Bangalore and Pune, India.
 
-* https://slides.suraj.pro
+I regularly posts my content via videos, livestreams, check them out.
 
-📫 How to reach me: ...
-
-<a href="https://twitter.com/surajincloud?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @surajincloud</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-* Twitter: https://twitter.com/surajincloud
-* Linkedin: https://www.linkedin.com/in/surajnarwade/
-
-Resume:
-
-* https://resume.suraj.pro
+#### Follow me
 
 
-<!--
+⭐ [Twitter](https://twitter.com/surajincloud) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⭐ [LinkedIn](https://www.linkedin.com/in/surajnarwade/)
 
--->
+
+#### Watch my content
+
+⭐ [Youtube](https://www.youtube.com/c/SurajinCloud)
+
+⭐ [Twitch](https://www.twitch.tv/surajincloud)
+
+
+#### Public Speaking
+
+Check out my talks from various conferences [here](https://www.youtube.com/playlist?list=PLbxFcvwuGy_rf2cF0UPd9kiw7lGDi8zNZ)
+
+#### Support my work via
+
+⭐ [Sponsor on Github](https://github.com/sponsors/surajnarwade)
+
+⭐ [Buy me Coffee](https://www.buymeacoffee.com/surajincloud)
+
+Thanks 🙏 😊 
+
