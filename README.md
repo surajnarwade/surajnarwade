@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Suraj Narwade. I work as a Senior Platform Engineer for [RVU](https://www.rvu.co.uk/). As a part of Platform Engineering, I work around Cloud-Native technologies like Kubernetes, Golang, Docker, Prometheus, AWS, EKS, etc
+I am Suraj Narwade. I work as a Platform Engineer for Natwest Boxed. As a part of Platform Engineering, I work around Cloud-Native technologies like Kubernetes, Golang, Docker, Prometheus, AWS, EKS, etc
 
 
 I am a Open-Source & Cloud-native enthusiast who contributes to Open Source in every possible way. I am CNCF Ambassador. Before moving to London, He was an active member of the local container-centric meetups in Bangalore and Pune, India.
