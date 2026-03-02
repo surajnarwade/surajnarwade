@@ -9,17 +9,21 @@ I regularly posts my content via videos, livestreams, check them out.
 
 #### Follow me
 
+⭐ [LinkedIn](https://www.linkedin.com/in/surajnarwade/)
 
 ⭐ [Twitter](https://twitter.com/surajincloud) 
 
-⭐ [LinkedIn](https://www.linkedin.com/in/surajnarwade/)
+#### Read my blog
 
+⭐ https://surajnarwade.com
+
+### Subscribe to my newsletter
+
+⭐ https://theplatformengineering.substack.com/
 
 #### Watch my content
 
 ⭐ [Youtube](https://www.youtube.com/c/SurajinCloud)
-
-⭐ [Twitch](https://www.twitch.tv/surajincloud)
 
 
 #### Public Speaking
